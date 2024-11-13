@@ -8,4 +8,8 @@
 PavanBilla2/PavanBilla2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  
+<h1>Connect with me</h1>
+<a href="https://www.linkedin.com/in/pavanbilla2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PavanBilla" height="50" width="50"/></a><br>
+<br>
+
+![Pavan BIlla GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanBilla2&show_icons=true&theme=transparent)
