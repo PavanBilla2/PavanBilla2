@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m Pavan Billa</h1>
+- <h1 align="center">👋 Hi, I’m Pavan Billa</h1>
 - 🌱 I’m currently learning Python and Diving deeper into Web Development and Web design
 - 📫 You can reach me at Linkedin https://www.linkedin.com/in/pavanbilla2/ <br>
 
